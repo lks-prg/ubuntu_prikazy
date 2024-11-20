@@ -3,6 +3,7 @@
 - cd /cesta/k/adresáři  # změna aktuálního adresáře
 - ls -la                 # zobrazení obsahu adresáře s detaily
 - pwd                    # výpis aktuálního adresáře
+- nano  # editor textu
 
 ## Správa souborů a adresářů:
 - cp zdroj cíl           # kopírování souboru nebo adresáře
