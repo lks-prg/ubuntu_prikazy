@@ -19,7 +19,7 @@
 ## Správa balíčků:
 - sudo apt update            # aktualizace seznamu balíčků
 - sudo apt upgrade           # aktualizace nainstalovaných balíčků
-- sudo apt install balíček   # instalace nového balíčku
+- sudo apt install htop      # instalace nového balíčku
 - sudo apt remove balíček    # odstranění balíčku
 
 ## Síťové příkazy:
