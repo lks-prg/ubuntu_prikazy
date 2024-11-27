@@ -1,4 +1,5 @@
 # Ubuntu příkazy
+Toto repo slouží pro edukativní a přednáskové účely CyberKroužku na SŠ Čichnova
 ## Navigace v souborovém systému:
 - cd /cesta/k/adresáři  # změna aktuálního adresáře
 - ls -la                 # zobrazení obsahu adresáře s detaily
